@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Amgad Block</string>
+    <string name="textView_name">Name:</string>
+    <string name="editText_name">Enter Name</string>
+    <string name="textView_phoneNumber">Phone Number:</string>
+    <string name="editText_phoneNumber">Enter Phone Number</string>
+    <string name="textView_keyword">Keyword:</string>
+    <string name="editText_keyword">Enter Keyword</string>
+    <string name="button_addToBlock">Add to Block</string>
+    <string name="button_addToKeywords">Add to Keywords</string>
+    <string name="button_readAllBlockedNumbers">Read All Blocked Numbers</string>
+    <string name="button_readAllBlockedKeywords">Read All Blocked Keywords</string>
+    <string name="button_blockPhoneNumber">Block Phone Number</string>
+    <string name="button_blockKeyword">Block Keyword</string>
+    <string name="button_history">History</string>
+    <string name="textViewBlockedWords">Blocked Keywords</string>
+    <string name="textViewBlockedNumbers">Blocked Phone Numbers</string>
+    <string name="textViewBlockedMessages">History</string>
+</resources>
